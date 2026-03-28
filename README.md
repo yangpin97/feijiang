@@ -1,5 +1,5 @@
 <!-- 新增：居中 H2 红色标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=900&size=28&duration=1&pause=999999&color=D32F2F&center=true&vCenter=true&repeat=false&width=520&lines=%E9%87%8D%E7%A3%85%E6%8E%A8%E8%8D%90+Anylink+%E4%BC%81%E4%B8%9A%E7%89%88" alt="重磅推荐 Anylink 企业版"/>
+<div align="center"><h2><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=900&size=28&duration=1&pause=999999&color=D32F2F&center=true&vCenter=true&repeat=false&width=520&lines=%E9%87%8D%E7%A3%85%E6%8E%A8%E8%8D%90+Anylink+%E4%BC%81%E4%B8%9A%E7%89%88" alt="重磅推荐 Anylink 企业版" /></h2></div>
 
 <div align="center"> 
   <a href="https://www.feijiangkeji.com"> 
