@@ -1,4 +1,3 @@
-<!-- 新增：居中 H2 红色标题 -->
 <div align="center"><h2><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=900&size=28&duration=1&pause=999999&color=D32F2F&center=true&vCenter=true&repeat=false&width=520&lines=%E9%87%8D%E7%A3%85%E6%8E%A8%E8%8D%90+Anylink+%E4%BC%81%E4%B8%9A%E7%89%88" alt="重磅推荐 Anylink 企业版" /></h2></div>
 
 <div align="center"> 
@@ -8,7 +7,6 @@
 
   <br /> 
 
-  <!-- 官网直达按钮（保留） --> 
   <a href="https://www.feijiangkeji.com"> 
     <img src="https://img.shields.io/badge/%E9%A3%9E%E5%B0%86%E5%AE%98%E7%BD%91-%E7%82%B9%E5%87%BB%E7%9B%B4%E8%BE%BE-28a745?style=for-the-badge" alt="飞将官网 点击直达"> 
   </a> 
@@ -37,9 +35,8 @@
 - 🧰 部署协助｜一键部署 + 专业网络指导 + 售后运维服务 
 
 > 🔴 限前 50 名内部价：10 人订阅 299 元/年｜10 人买断 1299 元/永久
-<p align="center"><strong>📲 扫码添加我们｜备注「AnyLink」领取内部价优惠码，获取一对一部署协助</strong></p>
+> 📲 **扫码添加我们｜备注「AnyLink」领取内部价优惠码，获取一对一部署协助**
 
-<!-- 新增：报价下方放置二维码（居中并排） -->
 <p align="center">
   <img src="https://blog.yydy.link/upload/2026/02/yydy_2026-02-05_15-02-40.webp" alt="二维码1" width="240" />
   <img src="https://blog.yydy.link/upload/2026/02/yydy_2026-02-05_15-06-24.webp" alt="二维码2" width="240" />
