@@ -1,9 +1,5 @@
 <!-- 新增：居中 H2 红色标题 -->
-<div align="center">
-  <h2>
-    <img src="https://img.shields.io/badge/%E9%87%8D%E7%A3%85%E6%8E%A8%E8%8D%90-Anylink%20%E4%BC%81%E4%B8%9A%E7%89%88-red?style=for-the-badge" alt="重磅推荐 Anylink 企业版" />
-  </h2>
-</div>
+<h2 align="center"><font color="#d32f2f"><b>重磅推荐 Anylink 企业版</b></font></h2>
 
 <div align="center"> 
   <a href="https://www.feijiangkeji.com"> 
